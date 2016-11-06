@@ -14,3 +14,10 @@ El  x  y  z
 ...
 ```
 
+##Ionic radii:
+
+The radii for the ions can be found following the link:
+
+http://abulafia.mt.ic.ac.uk/shannon/ptable.php
+
+Choose an element and select the correct ionic radii based on the coordinations and charges.
